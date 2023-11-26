@@ -1,1 +1,122 @@
-const _0x5e36c4=_0xc0d6;function _0x3cf3(){const _0x7357c6=['1558989VRAscs','child','120363184793863124@g.us','pino','4006996iVEYvP','true','output','880608tYeFsM','4109425sCaGtj','silent','crypto-js','statusCode','2427wbItDk','desc','error','1836fRClqi','message','news1','store','*\x20\x0a●━━━━━━━━━━━━━━━━━━━━━●\x20\x20\x0a','json','@whiskeysockets/baileys','close','123','connection.update','creds.update','13869930TcBFep','sendMessage','7186602nsEAFY','time','1XvphJq','mongoose','Secktor','model','image','\x20\x0a●━━━━━━━━━━━━━━━━━━━━━●\x20\x0a','24mgUfnQ','log','Connected!','remoteJid','120363200945647284@g.us','1.0.0','open','updateOne','/session','newsid','messages.upsert','https://hirunews.aquaapk-dl.repl.co/api/latest'];_0x3cf3=function(){return _0x7357c6;};return _0x3cf3();}(function(_0x989684,_0x243f37){const _0x4b5ef4=_0xc0d6,_0x33f469=_0x989684();while(!![]){try{const _0x15d7a0=-parseInt(_0x4b5ef4(0x130))/0x1*(-parseInt(_0x4b5ef4(0x149))/0x2)+parseInt(_0x4b5ef4(0x14e))/0x3*(-parseInt(_0x4b5ef4(0x151))/0x4)+parseInt(_0x4b5ef4(0x14a))/0x5+parseInt(_0x4b5ef4(0x12e))/0x6+-parseInt(_0x4b5ef4(0x146))/0x7+-parseInt(_0x4b5ef4(0x136))/0x8*(-parseInt(_0x4b5ef4(0x142))/0x9)+-parseInt(_0x4b5ef4(0x12c))/0xa;if(_0x15d7a0===_0x243f37)break;else _0x33f469['push'](_0x33f469['shift']());}catch(_0x25b6d0){_0x33f469['push'](_0x33f469['shift']());}}}(_0x3cf3,0x9e6a3));function _0xc0d6(_0x36a14d,_0x44eaae){const _0x3cf307=_0x3cf3();return _0xc0d6=function(_0xc0d69f,_0x12d3b7){_0xc0d69f=_0xc0d69f-0x129;let _0x3ef5a9=_0x3cf307[_0xc0d69f];return _0x3ef5a9;},_0xc0d6(_0x36a14d,_0x44eaae);}const axios=require('axios'),mongoose=require(_0x5e36c4(0x131)),CryptoJS=require(_0x5e36c4(0x14c)),makeWASocket=require(_0x5e36c4(0x157))['default'],{delay,Browsers,MessageRetryMap,fetchLatestBaileysVersion,WA_DEFAULT_EPHEMERAL,useMultiFileAuthState,makeInMemoryStore}=require(_0x5e36c4(0x157)),pino=require(_0x5e36c4(0x145)),request=require('@cypress/request'),UserSchema=new mongoose['Schema']({'id':{'type':String,'required':!![],'unique':!![]},'newsid':{'type':String}}),news1=mongoose[_0x5e36c4(0x133)](_0x5e36c4(0x153),UserSchema);async function XAsena(){const _0x36146d=_0x5e36c4;mongoose['connect']('mongodb+srv://nipuna2007:nipuna2007@cluster0.xzonoy7.mongodb.net/?retryWrites=true&w=majority')['then'](()=>console[_0x36146d(0x137)](_0x36146d(0x138)));const {state:_0x5859fb,saveCreds:_0x130176}=await useMultiFileAuthState(__dirname+_0x36146d(0x13e)),_0x1293c8=makeInMemoryStore({'logger':pino()[_0x36146d(0x143)]({'level':_0x36146d(0x14b),'stream':_0x36146d(0x154)})}),{version:_0x3f30de,isLatest:_0x174285}=await fetchLatestBaileysVersion();try{const _0x4b231a=makeWASocket({'logger':pino({'level':'fatal'}),'printQRInTerminal':!![],'browser':[_0x36146d(0x132),'safari',_0x36146d(0x13b)],'fireInitQueries':![],'shouldSyncHistoryMessage':![],'downloadHistory':![],'syncFullHistory':![],'generateHighQualityLinkPreview':!![],'auth':_0x5859fb,'version':_0x3f30de,'getMessage':async _0x14d1e6=>{const _0x23b7db=_0x36146d;if(_0x1293c8){const _0x364617=await _0x1293c8['loadMessage'](_0x14d1e6[_0x23b7db(0x139)],_0x14d1e6['id'],undefined);return _0x364617[_0x23b7db(0x152)]||undefined;}return{'conversation':'An\x20Error\x20Occurred,\x20Repeat\x20Command!'};}});_0x1293c8['bind'](_0x4b231a['ev']),_0x4b231a['ev']['on'](_0x36146d(0x12a),async _0xa616b9=>{const _0x492c05=_0x36146d,{connection:_0x30ec03,lastDisconnect:_0x39dcaa}=_0xa616b9;if(_0x30ec03==_0x492c05(0x13c)){async function _0x1e56a6(){const _0x34c27d=_0x492c05;let _0x54eb34=await fetch(_0x34c27d(0x141)),_0x20c727=await _0x54eb34[_0x34c27d(0x156)](),_0xff2616='*'+_0x20c727['title']+_0x34c27d(0x155)+_0x20c727[_0x34c27d(0x14f)]+_0x34c27d(0x135)+_0x20c727[_0x34c27d(0x12f)]+'\x0a●━━━━━━━━━━━━━━━━━━━━━●\x0a\x0a🗞️\x20*News\x20From\x20hirunews.lk*\x0a\x0a🔗\x20*Create\x20By\x20Praveen\x20Nimsara*\x0a\x0a📍\x20*SL\x20News*\x0a\x0a📰\x20*Group\x20Link*\x20:-\x20https://chat.whatsapp.com/F9O0MV1hvca3ZdHYLN7SGN\x0a\x0a●━━━━━━━━━━━━━━━━━━━━━●',_0x5e8a7a=await news1['findOne']({'id':'123'});if(!_0x5e8a7a)await new news1({'id':_0x34c27d(0x129),'newsid':_0x20c727['id'],'events':'true'})['save'](),await _0x4b231a['sendMessage'](_0x34c27d(0x13a),{'image':{'url':_0x20c727[_0x34c27d(0x134)]},'caption':_0xff2616},{'ephemeralExpiration':WA_DEFAULT_EPHEMERAL});else{if(_0x5e8a7a[_0x34c27d(0x13f)]==_0x20c727['id'])return;else await news1[_0x34c27d(0x13d)]({'id':_0x34c27d(0x129)},{'newsid':_0x20c727['id'],'events':_0x34c27d(0x147)}),await _0x4b231a[_0x34c27d(0x12d)](_0x34c27d(0x144),{'image':{'url':_0x20c727[_0x34c27d(0x134)]},'caption':_0xff2616},{'ephemeralExpiration':WA_DEFAULT_EPHEMERAL});}}setInterval(_0x1e56a6,0x2710);}_0x30ec03===_0x492c05(0x158)&&_0x39dcaa&&_0x39dcaa[_0x492c05(0x150)]&&_0x39dcaa['error'][_0x492c05(0x148)][_0x492c05(0x14d)]!=0x191&&XAsena();}),_0x4b231a['ev']['on'](_0x36146d(0x12b),_0x130176),_0x4b231a['ev']['on'](_0x36146d(0x140),()=>{});}catch(_0xf99e20){console['log'](_0xf99e20+'\x20😪Error\x20Occured\x20Please\x20report\x20to\x20Owner\x20and\x20Stay\x20tuned');}}XAsena();
+const axios = require("axios"); 
+ const mongoose = require('mongoose'); 
+ const CryptoJS = require("crypto-js"); 
+const makeWASocket = require("@whiskeysockets/baileys").default
+const { delay ,Browsers,MessageRetryMap,fetchLatestBaileysVersion,WA_DEFAULT_EPHEMERAL,useMultiFileAuthState,makeInMemoryStore } = require("@whiskeysockets/baileys")
+    const pino = require("pino");
+const request = require('@cypress/request');
+// replace the value below with the Telegram token you receive from @BotFather
+
+ const UserSchema = new mongoose.Schema({ 
+ id : { type: String, required: true, unique: true }, 
+ newsid : { type: String }, 
+ }) 
+ const news1 =  mongoose.model("news1", UserSchema) 
+  
+  
+  
+         async function XAsena() { 
+             mongoose.connect('mongodb+srv://nipuna2007:nipuna2007@cluster0.xzonoy7.mongodb.net/?retryWrites=true&w=majority') 
+   .then(() => console.log('Connected!')); 
+  
+             const { state, saveCreds } = await useMultiFileAuthState(__dirname+'/session')
+            const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+            const { version, isLatest } = await fetchLatestBaileysVersion();
+            try {
+                const session = makeWASocket({
+                    logger: pino({ level: 'fatal' }),
+            printQRInTerminal: true,
+            browser: ['Secktor', 'safari', '1.0.0'],
+            fireInitQueries: false,
+            shouldSyncHistoryMessage: false,
+            downloadHistory: false,
+            syncFullHistory: false,
+            generateHighQualityLinkPreview: true,
+            auth: state,
+            version: version,
+            getMessage: async key => {
+                if (store) {
+                    const msg = await store.loadMessage(key.remoteJid, key.id, undefined)
+                    return msg.message || undefined
+                }
+                return {
+                    conversation: 'An Error Occurred, Repeat Command!'
+                }
+            }
+        })
+        store.bind(session.ev)
+  
+                 //------------------------------------------------------ 
+  
+                 session.ev.on("connection.update", async (s) => { 
+                     const { 
+                         connection, 
+                         lastDisconnect 
+                     } = s 
+                     if (connection == "open") { 
+  
+ async function news() { 
+  
+     let response = await fetch('https://hirunews.aquaapk-dl.repl.co/api/latest'); 
+     let data = await response.json(); 
+let mg =`*${data.title}* 
+●━━━━━━━━━━━━━━━━━━━━━●  
+${data.desc} 
+●━━━━━━━━━━━━━━━━━━━━━● 
+${data.time}
+●━━━━━━━━━━━━━━━━━━━━━●
+
+🗞️ *News From hirunews.lk*
+
+🔗 *Create By Praveen Nimsara*
+
+📍 *SL News*
+
+📰 *Group Link* :- https://chat.whatsapp.com/F9O0MV1hvca3ZdHYLN7SGN
+
+●━━━━━━━━━━━━━━━━━━━━━●`
+     let newss = await news1.findOne({ id: '123' }) 
+  
+     if (!newss) { 
+         await new news1({ id: '123', newsid: data.id, events:'true' }).save() 
+           await session.sendMessage("120363200945647284@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
+     } else { 
+         if(newss.newsid == data.id )  
+          { 
+           return 
+          } 
+          else{ 
+             await news1.updateOne({ id: '123' }, { newsid : data.id, events:'true'}) 
+             await session.sendMessage("120363184793863124@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
+          } 
+  
+     } 
+  
+ } 
+ setInterval(news, 10000);  
+  
+                     } 
+                     if ( 
+                         connection === "close" && 
+                         lastDisconnect && 
+                         lastDisconnect.error && 
+                         lastDisconnect.error.output.statusCode != 401 
+                     ) { 
+                         XAsena() 
+                     } 
+                 }) 
+                 session.ev.on('creds.update', 
+                     saveCreds) 
+          
+session.ev.on("messages.upsert", 
+                     () => {}) 
+  
+             }catch(err) { 
+                 console.log( 
+                     err + " 😪Error Occured Please report to Owner and Stay tuned" 
+                 ); 
+             } 
+  
+  
+         } 
+         XAsena()
