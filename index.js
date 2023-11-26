@@ -19,7 +19,7 @@ const request = require('@cypress/request');
              mongoose.connect('mongodb+srv://nipuna2007:nipuna2007@cluster0.xzonoy7.mongodb.net/?retryWrites=true&w=majority') 
    .then(() => console.log('Connected!')); 
   
-             const { state, saveCreds } = await useMultiFileAuthState(__dirname+'/session')
+             let cc = Config.sessionName.replace(/DARK-EWING;;;/g, "")
             const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
             const { version, isLatest } = await fetchLatestBaileysVersion();
             try {
