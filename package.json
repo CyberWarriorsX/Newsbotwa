@@ -1,14 +1,14 @@
 {
     "name": "news-bot",
     "version": "1.0.0",
-    "description": "Multi device whatsapp bot by moxie",
+    "description": "Multi device whatsapp bot by dark-shadow",
     "main": "index.js",
     "type": "commonjs", 
     "scripts": {
-          "start": "node index.js  --attach --name moxie", 
-          "stop": "node stop moxier" 
+          "start": "node index.js  --attach --name dark-shadow", 
+          "stop": "node stop dark-shadow" 
     },
-    "author": "nipuna",
+    "author": "dark-shadow",
     "license": "GPL-3.0",
     "dependencies": {
         "@whiskeysockets/baileys": "latest",
