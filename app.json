@@ -1,7 +1,7 @@
   {
  "name": "DARK-SHADOW-NEWS-BOT",  
     "description": "whatsapp md bot build with nodejs",  
-    "repository": "https://github.com/praveyaofc/Newsbotwa",  
+    "repository": "https://github.com/CyberWarriorsX/Newsbotwa",  
     "logo": "https://hips.hearstapps.com/hmg-prod/images/index-anime-1674137684.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=1200:*",  
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],  
     "buildpacks": [  
